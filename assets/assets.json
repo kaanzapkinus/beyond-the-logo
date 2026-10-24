@@ -1,0 +1,314 @@
+[
+  {
+    "id": "mcdonalds-fries-packaging",
+    "brand": "McDonald's",
+    "category": "packaging",
+    "local_path": "assets/mcdonalds-fries-packaging.jpg",
+    "title": "McDonald's French Fries in Red Carton",
+    "description": "Close-up photograph of french fries in a red paperboard carton packaging placed on a wooden restaurant table. Used as a classroom visual aid to analyze how color combination and packaging shape function without logo visibility.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:McDonald%27s_French_Fries_(2024).jpg",
+    "direct_download_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/McDonald%27s_French_Fries_%282024%29.jpg",
+    "creator": "Filippos Fragkogiannis",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "dimensions": {
+      "width": 2296,
+      "height": 3547
+    },
+    "format": "jpg",
+    "file_size_bytes": 1517555,
+    "suggested_quiz_crop": {
+      "applicable": true,
+      "crop_area": "Top-only section isolating protruding french fries and the upper rim of the red carton",
+      "bounding_box_normalized": {
+        "top": 0.15,
+        "left": 0.2,
+        "bottom": 0.4,
+        "right": 0.8
+      },
+      "aspect_ratio": "16:9 or 4:3 landscape crop",
+      "rationale": "Isolates the protruding fries and upper rim of the carton while strictly avoiding the brand mark; any lower crop risks retaining the top tips of the golden arches logo printed on the carton face."
+    },
+    "teaching_label": "Classroom demonstration: color and packaging silhouette analysis; logo cropped for educational quiz"
+  },
+  {
+    "id": "mcdonalds-golden-arches-logo",
+    "brand": "McDonald's",
+    "category": "logo_reveal",
+    "local_path": "assets/mcdonalds-golden-arches-logo.svg",
+    "title": "McDonald's Golden Arches Official Symbol",
+    "description": "Vector graphic of the McDonald's Golden Arches symbol in official brand yellow (#FFC72C). Used as a classroom visual aid on the answer reveal slide resolving the colorway and packaging challenge.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:McDonald%27s_Golden_Arches.svg",
+    "direct_download_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+    "creator": "McDonald's Corporation (vectorized on Wikimedia Commons)",
+    "license": "Public domain",
+    "license_url": null,
+    "dimensions": {
+      "width": 273,
+      "height": 238
+    },
+    "format": "svg",
+    "file_size_bytes": 389,
+    "suggested_quiz_crop": {
+      "applicable": false,
+      "notes": "Reveal asset; displayed full and uncropped during answer reveal"
+    },
+    "teaching_label": "Classroom demonstration: trademarked brand symbol displayed for answer reveal"
+  },
+  {
+    "id": "mcdonalds-follow-the-arches-billboard",
+    "brand": "McDonald's",
+    "category": "case_study",
+    "local_path": "assets/mcdonalds-follow-the-arches-billboard.jpg",
+    "title": "McDonald's 'Follow the Arches' Highway Directional Billboard",
+    "description": "Photograph of a highway directional billboard from the 2018 'Follow the Arches' campaign created by Cossette for McDonald's Canada. Features a cropped section of the Golden Arches curve indicating a highway exit with the caption 'on your right' on a red background. Used as a classroom visual aid demonstrating that the campaign utilizes cropped segments of an existing trademarked logo rather than color alone.",
+    "source_page": "https://www.cossette.com/en/blog/__temp_icoufkdgyfmhfyeayjfwwthtvmmmmbyghnhu",
+    "direct_download_url": "https://cdn.cossette.com/cdn-cgi/image/width=1000,quality=82,format=auto,fit=cover/production/images/Blogue-Articles/Blogue-articles-2018/Arches-McDo/Copy-of-Follow-The-Arches-On-Your-Right.jpg",
+    "creator": "Cossette / McDonald's Restaurants of Canada Limited",
+    "license": "Copyrighted; no reuse license stated; included for classroom commentary",
+    "license_url": "https://www.cossette.com/en/blog/__temp_icoufkdgyfmhfyeayjfwwthtvmmmmbyghnhu",
+    "dimensions": {
+      "width": 1000,
+      "height": 708
+    },
+    "format": "jpg",
+    "file_size_bytes": 51904,
+    "suggested_quiz_crop": {
+      "applicable": false,
+      "notes": "Reveal-only campaign asset; must never be consumed on quiz slides because it depicts the distinctive Golden Arches curve and campaign directional typography."
+    },
+    "teaching_label": "Classroom demonstration: authentic campaign case study; agency archival record for reveal and visual analysis"
+  },
+  {
+    "id": "coca-cola-contour-bottle",
+    "brand": "Coca-Cola",
+    "category": "packaging",
+    "local_path": "assets/coca-cola-contour-bottle.jpg",
+    "title": "Coca-Cola Classic Contour Glass Bottle",
+    "description": "Studio photograph of a chilled 0.2-liter Coca-Cola glass contour bottle with surface condensation droplets, crown cap, and vertical fluted ribs. Used as a classroom visual aid to examine the physical contour bottle silhouette and tactile glass design.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0098_-_Coca-Cola_glass_bottle_(Germany).jpg",
+    "direct_download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/15-09-26-RalfR-WLC-0098_-_Coca-Cola_glass_bottle_%28Germany%29.jpg",
+    "creator": "Ralf Roletschek",
+    "license": "Public domain",
+    "license_url": null,
+    "dimensions": {
+      "width": 2354,
+      "height": 4174
+    },
+    "format": "jpg",
+    "file_size_bytes": 3630823,
+    "suggested_quiz_crop": {
+      "applicable": true,
+      "crop_area": "Lower fluted body and pinched waist of the glass bottle below the printed paper label",
+      "bounding_box_normalized": {
+        "top": 0.58,
+        "left": 0.25,
+        "bottom": 0.88,
+        "right": 0.75
+      },
+      "aspect_ratio": "4:5 vertical or 1:1 square crop",
+      "rationale": "Isolates the vertical fluting, curved hobbleskirt waist, and condensation beads against dark cola liquid, hiding brand text and labels so students evaluate the silhouette based on industrial design form."
+    },
+    "teaching_label": "Classroom demonstration: industrial design and tactile silhouette analysis; brand label cropped for educational quiz"
+  },
+  {
+    "id": "coca-cola-bottle-patent-1915",
+    "brand": "Coca-Cola",
+    "category": "color_shape",
+    "local_path": "assets/coca-cola-bottle-patent-1915.png",
+    "title": "1915 Coca-Cola Contour Bottle Original US Patent Drawing",
+    "description": "Technical patent drawing illustrating the fluted glass bottle geometry submitted for US Design Patent D48,160, granted on November 16, 1915 to Alexander Samuelson of the Root Glass Company. Used as a classroom visual aid for historical shape analysis. The patent drawing illustrates the physical shape; the famous design requirement (a bottle recognizable in the dark or broken on the ground) comes from Coca-Cola company history and commissioning lore, not the patent document itself.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coke_bottle_patent.png",
+    "direct_download_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Coke_bottle_patent.png",
+    "creator": "Alexander Samuelson / Chapman J. Root / US Patent Office",
+    "license": "Public domain",
+    "license_url": null,
+    "dimensions": {
+      "width": 1588,
+      "height": 2612
+    },
+    "format": "png",
+    "file_size_bytes": 29915,
+    "suggested_quiz_crop": {
+      "applicable": true,
+      "crop_area": "Figure 1 central elevation showing the fluted bottle profile",
+      "bounding_box_normalized": {
+        "top": 0.16,
+        "left": 0.22,
+        "bottom": 0.65,
+        "right": 0.78
+      },
+      "aspect_ratio": "3:4 portrait crop",
+      "rationale": "Crops out the patent header text and inventor signatures, presenting solely the line drawing silhouette for historical shape analysis."
+    },
+    "teaching_label": "Classroom demonstration: historical patent design analysis; text header cropped for educational presentation"
+  },
+  {
+    "id": "coca-cola-script-logo",
+    "brand": "Coca-Cola",
+    "category": "logo_reveal",
+    "local_path": "assets/coca-cola-script-logo.svg",
+    "title": "Coca-Cola Spencerian Script Official Logo",
+    "description": "Vector graphic of the Coca-Cola Spencerian script wordmark in classic red. Used as a classroom visual aid on the answer reveal slide following the contour bottle and script typography challenge.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coca-Cola_logo.svg",
+    "direct_download_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Coca-Cola_logo.svg",
+    "creator": "Frank Mason Robinson / The Coca-Cola Company",
+    "license": "Public domain",
+    "license_url": null,
+    "dimensions": {
+      "width": 615,
+      "height": 193
+    },
+    "format": "svg",
+    "file_size_bytes": 5169,
+    "suggested_quiz_crop": {
+      "applicable": false,
+      "notes": "Reveal asset; displayed full and uncropped during answer reveal"
+    },
+    "teaching_label": "Classroom demonstration: trademarked Spencerian script wordmark displayed for answer reveal"
+  },
+  {
+    "id": "tiffany-blue-box",
+    "brand": "Tiffany & Co.",
+    "category": "packaging",
+    "local_path": "assets/tiffany-blue-box.jpg",
+    "title": "Tiffany & Co. Blue Gift Box with Ribbon Bow",
+    "description": "Photograph of a turquoise / light blue gift box tied with a light, silver-toned ribbon bow. Used as a classroom visual aid to discuss trademarked brand color and packaging presentation. The photograph shows visual appearance under ambient lighting rather than standardizing the exact proprietary Pantone 1837 formula.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Tiffany_blue_box_1.jpg",
+    "direct_download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tiffany_blue_box_1.jpg",
+    "creator": "Adriana Górak",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "dimensions": {
+      "width": 3264,
+      "height": 2448
+    },
+    "format": "jpg",
+    "file_size_bytes": 408880,
+    "suggested_quiz_crop": {
+      "applicable": true,
+      "crop_area": "Top surface of the box lid and ribbon knot safely above the lid edge wordmark",
+      "bounding_box_normalized": {
+        "top": 0.22,
+        "left": 0.3,
+        "bottom": 0.55,
+        "right": 0.75
+      },
+      "aspect_ratio": "1:1 square or 4:3 landscape crop",
+      "rationale": "Focuses strictly on the top surface of the turquoise box and ribbon knot safely above the lid edge where the black wordmark appears, allowing students to evaluate color and packaging presentation without brand typography spoilers."
+    },
+    "teaching_label": "Classroom demonstration: trademarked colorway and packaging analysis; wordmark cropped for educational quiz"
+  },
+  {
+    "id": "tiffany-wordmark-logo",
+    "brand": "Tiffany & Co.",
+    "category": "logo_reveal",
+    "local_path": "assets/tiffany-wordmark-logo.svg",
+    "title": "Tiffany & Co. Official Wordmark Logo",
+    "description": "Vector graphic of the serif wordmark of Tiffany & Co. Used as a classroom visual aid on the answer reveal slide to anchor the discussion on brand color protection and luxury typography.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Tiffany_%26_Co._2024_logo.svg",
+    "direct_download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Tiffany_%26_Co._2024_logo.svg",
+    "creator": "Tiffany & Co.",
+    "license": "Public domain",
+    "license_url": null,
+    "dimensions": {
+      "width": 634,
+      "height": 70
+    },
+    "format": "svg",
+    "file_size_bytes": 6380,
+    "suggested_quiz_crop": {
+      "applicable": false,
+      "notes": "Reveal asset; displayed full and uncropped during answer reveal"
+    },
+    "teaching_label": "Classroom demonstration: trademarked serif wordmark displayed for answer reveal"
+  },
+  {
+    "id": "ikea-store-exterior",
+    "brand": "IKEA",
+    "category": "color_shape",
+    "local_path": "assets/ikea-store-exterior.jpg",
+    "title": "IKEA Blue and Yellow Warehouse Store Exterior",
+    "description": "Daylight photograph of an IKEA store building exterior in Halifax, Canada. Shows the blue warehouse exterior wall paired with the yellow entrance canopy, used as a classroom visual aid to analyze architectural color blocking and large-scale structural color application.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:IKEA_Halifax_2019.jpg",
+    "direct_download_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/IKEA_Halifax_2019.jpg",
+    "creator": "Ben MacLeod",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "dimensions": {
+      "width": 3384,
+      "height": 2238
+    },
+    "format": "jpg",
+    "file_size_bytes": 1363816,
+    "suggested_quiz_crop": {
+      "applicable": true,
+      "crop_area": "Junction of the cobalt blue architectural wall and bright yellow entrance block",
+      "bounding_box_normalized": {
+        "top": 0.28,
+        "left": 0.38,
+        "bottom": 0.75,
+        "right": 0.88
+      },
+      "aspect_ratio": "16:9 landscape crop",
+      "rationale": "Crops out the yellow 'IKEA' letter signs on the facade while retaining the blue and yellow architectural volumes, allowing students to analyze the brand's national-flag color blocking and warehouse geometry."
+    },
+    "teaching_label": "Classroom demonstration: architectural color blocking and scale analysis; store signage cropped for educational quiz"
+  },
+  {
+    "id": "ikea-frakta-bag",
+    "brand": "IKEA",
+    "category": "packaging",
+    "local_path": "assets/ikea-frakta-bag.jpg",
+    "title": "IKEA Blue FRAKTA Shopping Bag",
+    "description": "Close-up photograph of a blue IKEA FRAKTA polypropylene carrier bag with woven yellow handles. Used as a classroom visual aid to examine utilitarian material texture, functional design, and blue-and-yellow color pairing.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:IKEA-Tasche.JPG",
+    "direct_download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/IKEA-Tasche.JPG",
+    "creator": "Andrea014",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "dimensions": {
+      "width": 3264,
+      "height": 2448
+    },
+    "format": "jpg",
+    "file_size_bytes": 3379313,
+    "suggested_quiz_crop": {
+      "applicable": true,
+      "crop_area": "Crinkled blue polypropylene woven body and yellow webbing strap handle",
+      "bounding_box_normalized": {
+        "top": 0.2,
+        "left": 0.15,
+        "bottom": 0.8,
+        "right": 0.85
+      },
+      "aspect_ratio": "4:3 landscape crop",
+      "rationale": "Focuses on the crinkled texture of the blue woven synthetic material and contrasting yellow strap webbing, cropping out printed text along handles to challenge students to identify the brand through material and colorway."
+    },
+    "teaching_label": "Classroom demonstration: utilitarian material texture and colorway analysis; typography cropped for educational quiz"
+  },
+  {
+    "id": "ikea-logo",
+    "brand": "IKEA",
+    "category": "logo_reveal",
+    "local_path": "assets/ikea-logo.svg",
+    "title": "IKEA Official Blue and Yellow Logo",
+    "description": "Vector graphic of the official IKEA logo featuring blue block lettering inside a yellow ellipse within a blue rectangle. Used as a classroom visual aid for the final answer reveal slide for the IKEA case study.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ikea_logo.svg",
+    "direct_download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ikea_logo.svg",
+    "creator": "IKEA International Group",
+    "license": "Public domain",
+    "license_url": null,
+    "dimensions": {
+      "width": 100,
+      "height": 40
+    },
+    "format": "svg",
+    "file_size_bytes": 2297,
+    "suggested_quiz_crop": {
+      "applicable": false,
+      "notes": "Reveal asset; displayed full and uncropped during answer reveal"
+    },
+    "teaching_label": "Classroom demonstration: official trademarked block logo displayed for answer reveal"
+  }
+]
