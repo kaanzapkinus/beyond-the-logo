@@ -1,0 +1,590 @@
+{
+  "deck_title": "Beyond the Logo",
+  "subtitle": "Can we recognize a brand without its name?",
+  "authors": "Kaan and Caner",
+  "language": "B2 English",
+  "duration_seconds": 720,
+  "slides": [
+    {
+      "id": 1,
+      "title": "Beyond the Logo",
+      "layout": "cover",
+      "credit": "Kaan & Caner",
+      "speaker": 1,
+      "seconds": 30,
+      "body": [
+        "Visual clues that trigger brand recognition without a logo",
+        "How shapes, colors, and packaging help us identify brands"
+      ],
+      "notes": "Hi, I’m Kaan, and this is Caner. Today we’ll look at how we recognize brands without their names. Sometimes a color, a shape, or a package is enough. In daily life, we rarely read every logo on a shelf. Instead, we spot familiar bottles and colors. We’ll explore four famous examples to see how this works.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S1"
+      ],
+      "visual": {
+        "brand": "none",
+        "kind": "diagram",
+        "asset_hint": "Classroom presentation graphic: Clean title layout with abstract outlines of packaging silhouettes and simple color blocks on a white background.",
+        "caption": ""
+      }
+    },
+    {
+      "id": 2,
+      "title": "Visual Quiz: Can Color Alone Identify a Brand?",
+      "layout": "quiz",
+      "speaker": 1,
+      "seconds": 45,
+      "body": [
+        "Classroom illustration: Four plain color swatches with no logos",
+        "Solid red, yellow, turquoise, and blue without shapes",
+        "Can you name the brand behind each color?"
+      ],
+      "notes": "Let’s start with a quick quiz. Here are four plain colors: red, yellow, turquoise, and blue. There are no names and no shapes here. Color alone is not always enough to identify a brand. Many different companies share red or blue. Without a shape or context, not everyone will recognize them.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S1"
+      ],
+      "visual": {
+        "brand": "none",
+        "kind": "swatches",
+        "asset_hint": "Classroom illustration: Four solid unbranded color swatches displayed side by side: bright red, warm yellow, turquoise, and Swedish blue.",
+        "caption": ""
+      }
+    },
+    {
+      "id": 3,
+      "title": "Visual Quiz: Adding Product Shapes to Colors",
+      "layout": "activity",
+      "speaker": 1,
+      "seconds": 45,
+      "body": [
+        "Classroom illustration: Silhouette and cropped packaging textures",
+        "A bottle silhouette alongside fry carton, gift box, and tote textures",
+        "Adding packaging shapes and textures narrows down the choices"
+      ],
+      "notes": "Now look at these new clues. Here is a black bottle silhouette, plus packaging textures from three items. We see fry packaging, a gift box, and a bag. Adding a physical shape changes everything. Shape turns a plain color into a real product. The choices become much clearer right away.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "visual": {
+        "brand": "none",
+        "kind": "silhouette",
+        "asset_hint": "Classroom illustration: Four unbranded packaging clues: a black bottle silhouette alongside cropped textures of a red fry carton, turquoise gift box, and blue woven bag.",
+        "caption": ""
+      }
+    },
+    {
+      "id": 4,
+      "title": "The Reveal: Learned Brand Connections in Daily Life",
+      "layout": "reveal",
+      "speaker": 1,
+      "seconds": 30,
+      "body": [
+        "The four brands: Coca-Cola, McDonald's, Tiffany, and IKEA",
+        "Recognition comes from repeated exposure during everyday shopping",
+        "Familiar shapes and colors trigger brand memory without names"
+      ],
+      "notes": "Here is the reveal: Coca-Cola, McDonald’s, Tiffany, and IKEA. We did not know these brands from birth. Instead, we learned them by seeing them again and again. We spot them in shops, ads, and street signs. Over time, a familiar shape becomes an easy shortcut. That is how these brands stick in our memory.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "visual": {
+        "brand": "none",
+        "kind": "comparison",
+        "asset_hint": "Classroom comparison layout revealing the official logos and case study imagery for Coca-Cola, McDonald's, Tiffany & Co., and IKEA.",
+        "caption": ""
+      }
+    },
+    {
+      "id": 5,
+      "title": "How Brand Memory Works: Context Beats Color Myths",
+      "layout": "principle",
+      "speaker": 1,
+      "seconds": 30,
+      "body": [
+        "Popular assumptions claim colors carry fixed commercial meanings",
+        "Marketing research shows brand recognition comes from consistent use",
+        "Context and learned familiarity turn colors into reliable shortcuts"
+      ],
+      "notes": "We often hear that red creates hunger and blue builds trust. But a color does not mean the same thing to everyone. With brands, we learn these links by seeing the same colors again and again. So using a color consistently matters. Caner will show you some examples.",
+      "stage_directions": "Brief optional pause before handing over to Caner.",
+      "sources": [
+        "S1"
+      ],
+      "visual": {
+        "brand": "none",
+        "kind": "diagram",
+        "asset_hint": "Conceptual diagram illustrating repeated exposure leading to familiar visual clues and possible brand recognition, contrasting with color myths discussed in the body.",
+        "caption": ""
+      }
+    },
+    {
+      "id": 6,
+      "title": "Case 1: Coca-Cola and the 1915 Bottle Challenge",
+      "layout": "case",
+      "speaker": 2,
+      "seconds": 36,
+      "body": [
+        "Soft drinks in 1915 used plain straight-sided bottles",
+        "Design brief asked for a bottle recognized by touch",
+        "Goal: recognize the bottle without seeing its label"
+      ],
+      "notes": "Our first case study is Coca-Cola. In the early 1900s, sodas used plain glass bottles. Local competitors copied them very easily. Paper labels also peeled off in cold water coolers. In 1915, Coca-Cola asked designers for help. They wanted a bottle you could recognize by touch in the dark.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S4"
+      ],
+      "visual": {
+        "brand": "coca-cola",
+        "kind": "photo",
+        "asset_hint": "Studio photograph of a chilled 0.2-liter Coca-Cola glass contour bottle with surface condensation droplets, crown cap, and vertical fluted ribs.",
+        "caption": "Original contour glass bottle"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Coca-Cola: The 1915 Fluted Bottle Design",
+      "layout": "case",
+      "speaker": 2,
+      "seconds": 36,
+      "body": [
+        "Original patent granted on November 16, 1915",
+        "Design inspired by the curved lines of a cocoa bean",
+        "Vertical ribs and curved sides create a clear shape"
+      ],
+      "notes": "The Root Glass Company in Indiana answered the challenge. While researching, designers saw a sketch of a cocoa bean. It had rounded ribs and curved lines. Cocoa was not in the recipe, but the grooves inspired them. Alexander Samuelson patented this fluted shape on November 16, 1915.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S4"
+      ],
+      "visual": {
+        "brand": "coca-cola",
+        "kind": "diagram",
+        "asset_hint": "Technical patent drawing illustrating the fluted glass bottle geometry submitted for US Design Patent D48,160, granted on November 16, 1915 to Alexander Samuelson of the Root Glass Company.",
+        "caption": "US Design Patent D48,160 (Nov 16, 1915)"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Shape Still Matters Without Color",
+      "layout": "comparison",
+      "speaker": 2,
+      "seconds": 36,
+      "body": [
+        "Comparing the bottle silhouette with the patent drawing",
+        "The fluted bottle silhouette stays recognizable in black and white",
+        "A familiar shape can remain a useful clue"
+      ],
+      "notes": "Here we compare a photo-derived silhouette with the 1915 patent drawing. Both images are in black and white. There is no red color and no brand name. Yet the curved bottle remains easy to spot. This shows that shape works as a clue all by itself. You do not need color to identify this container.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S4"
+      ],
+      "visual": {
+        "brand": "coca-cola",
+        "kind": "comparison",
+        "asset_hint": "Classroom visual comparison: Side-by-side view of the photo-derived contour bottle silhouette and the 1915 patent drawing, showing the fluted shape without color.",
+        "caption": ""
+      }
+    },
+    {
+      "id": 9,
+      "title": "McDonald’s: More Than Red and Yellow",
+      "layout": "case",
+      "speaker": 2,
+      "seconds": 36,
+      "body": [
+        "Red fry carton paired with bright yellow french fries",
+        "Simple packaging shape works together with brand colors",
+        "Color combination and packaging create a familiar visual clue"
+      ],
+      "notes": "Our second case study is McDonald’s. The logo is visible here. But imagine covering it. The red box and fries still give us clues. The curved red carton and yellow fries work together. Not everyone will recognize it, of course. Still, packaging shape and color support each other well.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "visual": {
+        "brand": "mcdonalds",
+        "kind": "photo",
+        "asset_hint": "Close-up photograph of french fries in a red paperboard carton packaging placed on a wooden restaurant table.",
+        "caption": "Red paperboard fry carton"
+      }
+    },
+    {
+      "id": 10,
+      "title": "McDonald’s: European Green and Cropped Arches",
+      "layout": "case",
+      "speaker": 2,
+      "seconds": 36,
+      "body": [
+        "Some European restaurants changed red background to deep green (reported 2009)",
+        "Golden arches stayed unchanged while background colors changed",
+        "Cropped arches are logo fragments with text, not color-only"
+      ],
+      "notes": "McDonald’s also shows how visual clues adapt. In 2009, some European restaurants changed red backgrounds to green. The golden arches stayed the same. In 2018, Canadian billboards used cropped pieces of the arches. They pointed drivers toward nearby restaurants. These ads used parts of a familiar logo, not color alone.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S8",
+        "S9"
+      ],
+      "visual": {
+        "brand": "mcdonalds",
+        "kind": "comparison",
+        "asset_hint": "Photograph of a highway directional billboard from the 2018 'Follow the Arches' campaign created by Cossette for McDonald's Canada.",
+        "caption": "Follow the Arches campaign (Cossette, 2018)"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Case 3: Tiffany Blue and Luxury Packaging",
+      "layout": "case",
+      "speaker": 2,
+      "seconds": 36,
+      "body": [
+        "Signature turquoise color chosen in the nineteenth century",
+        "Famous gift box is tied with a white satin ribbon",
+        "Customers connect the box color with special jewelry gifts"
+      ],
+      "notes": "Our third case study is Tiffany and Co. They built strong recognition around one signature color. In the 1800s, the founder picked robin’s-egg blue for a catalogue. Soon, the blue box with a white satin ribbon appeared. People learned to connect this color with luxury jewelry gifts. The box itself became as famous as the jewelry.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S5"
+      ],
+      "visual": {
+        "brand": "tiffany",
+        "kind": "photo",
+        "asset_hint": "Photograph of a turquoise / light blue gift box tied with a white satin ribbon bow.",
+        "caption": "The Tiffany Blue Box"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Tiffany: Store Rules and Presentation",
+      "layout": "case",
+      "speaker": 2,
+      "seconds": 36,
+      "body": [
+        "Strict store presentation policies protect the blue gift box",
+        "Company lore cites 1906 report: boxes given only with purchases",
+        "Keep the blue consistent across boxes and shopping bags"
+      ],
+      "notes": "Tiffany protected this blue box through strict presentation rules. An old 1906 report said you could never buy an empty box. It only came with a real jewelry purchase. That is Tiffany’s own account, not independent research. Still, it shows how carefully they protected the packaging.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S5"
+      ],
+      "visual": {
+        "brand": "tiffany",
+        "kind": "photo",
+        "asset_hint": "Detailed photograph of the Tiffany Blue Box focusing on packaging craftsmanship, textured paperboard, and white satin ribbon bow.",
+        "caption": ""
+      }
+    },
+    {
+      "id": 13,
+      "title": "Tiffany: Standard Color and Trademark Scope",
+      "layout": "case",
+      "speaker": 2,
+      "seconds": 36,
+      "body": [
+        "Registered Tiffany Blue as a color trademark in 1998",
+        "Standardized custom color with Pantone as 1837 Blue",
+        "Protection covers luxury jewelry boxes, not all turquoise products"
+      ],
+      "notes": "To keep the color consistent, Tiffany worked with Pantone in 2001. They created a custom standard called 1837 Blue. The color on this screen is only an approximation. Tiffany also trademarked the color for packaging in 1998. That rule applies to luxury boxes, not every blue product.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S5"
+      ],
+      "visual": {
+        "brand": "tiffany",
+        "kind": "swatches",
+        "asset_hint": "Graphic card representing custom color standard Pantone 1837 alongside legal trademark registration details for luxury packaging.",
+        "caption": "Pantone 1837 (2001) · Color trademark (1998)"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Case 4: IKEA and Store Color Standardization",
+      "layout": "case",
+      "speaker": 2,
+      "seconds": 36,
+      "body": [
+        "First brand manual in 1984 set clear identity rules",
+        "Red-and-white logos stayed in Scandinavia for many years",
+        "Blue warehouse buildings with yellow signs spread from 1991"
+      ],
+      "notes": "Our fourth case study is IKEA. We all know their blue and yellow buildings today. But standardizing these colors took many years. In 1984, IKEA published its first brand manual. From 1991, they built blue warehouse stores with yellow signs. Now, back to Kaan.",
+      "stage_directions": "Brief optional pause before handing back to Kaan.",
+      "sources": [
+        "S6"
+      ],
+      "visual": {
+        "brand": "ikea",
+        "kind": "photo",
+        "asset_hint": "Daylight photograph of an IKEA store building exterior in Halifax, Canada. Shows the blue warehouse exterior wall paired with the yellow entrance canopy.",
+        "caption": "Standardized warehouse architecture (from 1991)"
+      }
+    },
+    {
+      "id": 15,
+      "title": "IKEA: The Blue FRAKTA Shopping Bag",
+      "layout": "case",
+      "speaker": 1,
+      "seconds": 36,
+      "body": [
+        "Durable blue shopping bag created for carrying home products",
+        "Blue woven handles feature bright yellow brand lettering",
+        "Everyday practical use turned the bag into a familiar clue"
+      ],
+      "notes": "Thanks, Caner. IKEA created another famous clue: the blue FRAKTA bag. In 1986, shoppers got tired carrying heavy goods. IKEA tested yellow bags in 1989, but checkout got confusing. So yellow bags stayed inside for borrowing. Blue bags were sold to take home. That durable bag became a familiar household clue.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S7"
+      ],
+      "visual": {
+        "brand": "ikea",
+        "kind": "photo",
+        "asset_hint": "Close-up photograph of a blue IKEA FRAKTA shopping bag showing its crinkled polypropylene texture and blue handles with yellow lettering.",
+        "caption": "FRAKTA shopping bag"
+      }
+    },
+    {
+      "id": 16,
+      "title": "Limits of Single Colors: Shared Brand Clues",
+      "layout": "comparison",
+      "speaker": 1,
+      "seconds": 36,
+      "body": [
+        "Single colors are shared by many competing commercial brands",
+        "Red is shared by Coca-Cola, Target, and McDonald's",
+        "Yellow is shared by IKEA, Shell, and DHL"
+      ],
+      "notes": "What do these examples teach us about design? First, color alone is rarely enough. Many big companies use the same basic colors. Red is used by Coca-Cola, Target, and McDonald’s. Yellow is shared by IKEA, Shell, and DHL. Without context, one color can suggest several brands.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "visual": {
+        "brand": "none",
+        "kind": "comparison",
+        "asset_hint": "Comparative chart displaying multiple well-known brand logos grouped inside identical red circles and yellow circles to illustrate color sharing.",
+        "caption": ""
+      }
+    },
+    {
+      "id": 17,
+      "title": "Combining Visual Clues: Color, Shape, and Context",
+      "layout": "principle",
+      "speaker": 1,
+      "seconds": 36,
+      "body": [
+        "Visual clues work best when supporting each other together",
+        "Pairing color with shape reduces confusion for shoppers",
+        "Recognition depends on shopper familiarity and daily habits"
+      ],
+      "notes": "This is why visual clues work best together. A plain bottle outline could be any drink. A solid red square could mean many brands. But when you pair shape with color, recognition becomes easy. Not everyone will spot every clue instantly. Still, multiple clues support each other during shopping.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "visual": {
+        "brand": "none",
+        "kind": "diagram",
+        "asset_hint": "Conceptual diagram illustrating how color, shape, and shopper familiarity combine for easier brand recognition.",
+        "caption": ""
+      }
+    },
+    {
+      "id": 18,
+      "title": "Redesign Risks: Protecting Familiar Visual Clues",
+      "layout": "principle",
+      "speaker": 1,
+      "seconds": 36,
+      "body": [
+        "Brand assets are long-term investments built over many years",
+        "Shoppers rely on fast visual habits when browsing shelves",
+        "Rapid redesigns risk breaking familiar memory connections"
+      ],
+      "notes": "Our next lesson is about the risk of redesigns. Design teams often want to change packaging for new trends. But shoppers rely on quick visual habits in store aisles. If a company changes colors or shapes too fast, customers get confused. Protecting familiar clues keeps existing buyers happy.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S2"
+      ],
+      "visual": {
+        "brand": "none",
+        "kind": "diagram",
+        "asset_hint": "Diagram illustrating how brand identity assets function as long-term memory shortcuts that must be protected during visual refreshes.",
+        "caption": ""
+      }
+    },
+    {
+      "id": 19,
+      "title": "Practical Guidelines for Distinctive Design",
+      "layout": "summary",
+      "speaker": 1,
+      "seconds": 36,
+      "body": [
+        "Rule 1: Build clear shapes recognizable without color",
+        "Rule 2: Pair colors with distinctive packaging silhouettes",
+        "Rule 3: Core cues can evolve with testing, grounded in consistency"
+      ],
+      "notes": "Here are three practical tips for designers. First, build clear shapes that work in black and white. Second, pair colors with unique packages and fonts. Third, stay consistent over long periods of time. You can evolve cues carefully, but test before changing them. Consistency turns simple designs into lasting memory shortcuts.",
+      "stage_directions": "Brief optional pause.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "visual": {
+        "brand": "none",
+        "kind": "diagram",
+        "asset_hint": "Classroom framework summarizing three practical design rules: distinct shapes, pairing color with form, and disciplined consistency.",
+        "caption": ""
+      }
+    },
+    {
+      "id": 20,
+      "title": "Conclusion: Distinctive Clues in Daily Life",
+      "layout": "activity",
+      "speaker": 1,
+      "seconds": 36,
+      "body": [
+        "Logos confirm a brand, but visual clues guide discovery",
+        "Packaging and colors help shoppers spot products quickly",
+        "Recognition grows through patient consistency and daily familiarity"
+      ],
+      "notes": "To wrap up, logos still matter at the final moment. But in crowded places, shapes and colors catch our attention first. Bottles, fry cartons, and gift boxes guide us without words. Thank you very much for your time. Caner and I are happy to take any questions.",
+      "stage_directions": "Brief optional pause to conclude.",
+      "sources": [
+        "S1"
+      ],
+      "visual": {
+        "brand": "none",
+        "kind": "comparison",
+        "asset_hint": "Closing visual bringing together minimalist silhouettes of the four case study packaging and building shapes on a clean white background.",
+        "caption": "Summary: How shapes and colors guide everyday discovery"
+      }
+    },
+    {
+      "id": 21,
+      "title": "References: Research Studies and Corporate Archives",
+      "layout": "references",
+      "speaker": null,
+      "body": [
+        "S1: Romaniuk, J., Sharp, B., & Ehrenberg, A. Evidence concerning the importance of perceived brand differentiation. Australasian Marketing Journal / Ehrenberg-Bass Institute. https://assets.marketingscience.info/different.pdf",
+        "S2: Romaniuk, J. Q&A: Seven Costly Sins of Brand Identity. Ehrenberg-Bass Institute for Marketing Science. https://assets.marketingscience.info/Brand-Identity-QA.pdf",
+        "S3: Romaniuk, J. (2013). Brands of Distinction. UniSA Business Magazine / Ehrenberg-Bass Institute for Marketing Science. https://marketingscience.info/news-and-insights/brands-of-distinction",
+        "S4: The Coca-Cola Company. The History of the Coca-Cola Contour Bottle. The Coca-Cola Company. https://www.coca-colacompany.com/about-us/history/the-history-of-the-coca-cola-contour-bottle",
+        "S5: Tiffany & Co. Tiffany Blue: A Color So Famous, It's Trademarked. Tiffany & Co. https://press.tiffany.com/our-story/tiffany-blue/"
+      ],
+      "notes": "",
+      "stage_directions": "Keep visible during questions for academic citations.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "visual": {
+        "brand": "none",
+        "kind": "none",
+        "asset_hint": "Clean typography layout presenting academic marketing research papers and corporate archives.",
+        "caption": ""
+      },
+      "seconds": 0
+    },
+    {
+      "id": 22,
+      "title": "References: Museum Archives, News and Agency Records",
+      "layout": "references",
+      "speaker": null,
+      "body": [
+        "S6: IKEA Museum. History of the logotype: The small steps of evolution. IKEA Museum / Inter IKEA Systems B.V. https://ikeamuseum.com/en/explore/the-story-of-ikea/history-of-the-logotype/",
+        "S7: IKEA Museum. Beloved bag: The story of FRAKTA. IKEA Museum / Inter IKEA Systems B.V. https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/",
+        "S8: NBC News / The Associated Press. McDonald’s rolling out green logo in Europe. NBC News. https://www.nbcnews.com/id/wbna34111784",
+        "S9: Cossette. Cossette and McDonald's deconstruct the iconic Golden Arches to direct people to the nearest restaurant (Follow the Arches). Cossette. https://www.cossette.com/en/blog/__temp_icoufkdgyfmhfyeayjfwwthtvmmmmbyghnhu"
+      ],
+      "notes": "",
+      "stage_directions": "Keep visible during questions for archival citations.",
+      "sources": [
+        "S6",
+        "S7",
+        "S8",
+        "S9"
+      ],
+      "visual": {
+        "brand": "none",
+        "kind": "none",
+        "asset_hint": "Clean typography layout presenting museum archives, news reporting, and agency case documentation.",
+        "caption": ""
+      },
+      "seconds": 0
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Evidence concerning the importance of perceived brand differentiation",
+      "publisher": "Australasian Marketing Journal / Ehrenberg-Bass Institute for Marketing Science",
+      "url": "https://assets.marketingscience.info/different.pdf"
+    },
+    {
+      "id": "S2",
+      "title": "Q&A: Seven Costly Sins of Brand Identity",
+      "publisher": "Ehrenberg-Bass Institute for Marketing Science",
+      "url": "https://assets.marketingscience.info/Brand-Identity-QA.pdf"
+    },
+    {
+      "id": "S3",
+      "title": "Brands of Distinction",
+      "publisher": "Ehrenberg-Bass Institute for Marketing Science / UniSA Business Magazine",
+      "url": "https://marketingscience.info/news-and-insights/brands-of-distinction"
+    },
+    {
+      "id": "S4",
+      "title": "The History of the Coca-Cola Contour Bottle",
+      "publisher": "The Coca-Cola Company",
+      "url": "https://www.coca-colacompany.com/about-us/history/the-history-of-the-coca-cola-contour-bottle"
+    },
+    {
+      "id": "S5",
+      "title": "Tiffany Blue: A Color So Famous, It's Trademarked",
+      "publisher": "Tiffany & Co.",
+      "url": "https://press.tiffany.com/our-story/tiffany-blue/"
+    },
+    {
+      "id": "S6",
+      "title": "History of the logotype: The small steps of evolution",
+      "publisher": "IKEA Museum / Inter IKEA Systems B.V.",
+      "url": "https://ikeamuseum.com/en/explore/the-story-of-ikea/history-of-the-logotype/"
+    },
+    {
+      "id": "S7",
+      "title": "Beloved bag: The story of FRAKTA",
+      "publisher": "IKEA Museum / Inter IKEA Systems B.V.",
+      "url": "https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/"
+    },
+    {
+      "id": "S8",
+      "title": "McDonald’s rolling out green logo in Europe",
+      "publisher": "NBC News / The Associated Press",
+      "url": "https://www.nbcnews.com/id/wbna34111784"
+    },
+    {
+      "id": "S9",
+      "title": "Cossette and McDonald's deconstruct the iconic Golden Arches to direct people to the nearest restaurant",
+      "publisher": "Cossette",
+      "url": "https://www.cossette.com/en/blog/__temp_icoufkdgyfmhfyeayjfwwthtvmmmmbyghnhu"
+    }
+  ]
+}
