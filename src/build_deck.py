@@ -311,7 +311,7 @@ def build_cover(prs, s: Dict[str, Any]):
     for i, col in enumerate(strip_colors):
         add_rect(slide, Inches(1.0 + i * 1.8), Inches(4.5), Inches(1.8), Inches(0.12), fill=col, line=None)
 
-    credit = s.get("credit", "Kaan Yazıcıoğlu & Can Akcasu")
+    credit = s.get("credit", "Kaan Yazıcıoğlu & Caner Akcasu")
     add_textbox(slide, Inches(1.0), Inches(5.1), Inches(6.0), Inches(0.4),
                 text=credit, font_size=15, color=COLOR_DARK_MUTED)
     return slide
@@ -548,7 +548,7 @@ def build_thanks(prs, s: Dict[str, Any], slide_num: int = 21):
     for i, col in enumerate(strip_colors):
         add_rect(slide, Inches(1.0 + i * 1.8), Inches(4.1), Inches(1.8), Inches(0.12), fill=col, line=None)
 
-    credit = s.get("credit", "Kaan Yazıcıoğlu & Can Akcasu")
+    credit = s.get("credit", "Kaan Yazıcıoğlu & Caner Akcasu")
     add_textbox(slide, Inches(1.0), Inches(4.6), Inches(10.0), Inches(0.35),
                 text="Presented by", font_size=14, bold=False, color=COLOR_MUTED)
     add_textbox(slide, Inches(1.0), Inches(5.0), Inches(10.0), Inches(0.6),
@@ -777,7 +777,7 @@ def main():
     prs.slide_height = Inches(7.5)
 
     prs.core_properties.title = deck.get("deck_title", "Beyond the Logo")
-    prs.core_properties.author = "Kaan and Caner"
+    prs.core_properties.author = "Kaan Yazıcıoğlu & Caner Akcasu"
     if "subtitle" in deck:
         prs.core_properties.subject = deck["subtitle"]
     slides_data = deck.get("slides", [])

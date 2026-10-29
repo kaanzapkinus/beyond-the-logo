@@ -96,7 +96,6 @@ def load_and_verify_scripts() -> Dict[str, List[Tuple[int, List[str]]]]:
 
     return {
         "Kaan": kaan_slides,
-        "Can": caner_slides,
         "Caner": caner_slides,
     }
 

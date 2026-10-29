@@ -1,6 +1,6 @@
 # Beyond the Logo: Can We Recognize a Brand Without Its Name?
 
-A practical graphic design and visual identity presentation by **Kaan** and **Caner**.
+A practical graphic design and visual identity presentation by **Kaan Yazıcıoğlu** and **Caner Akcasu**.
 
 This presentation investigates how brands achieve instant recognition through shape, packaging geometry, color combinations, and context—even when their official names and logos are completely absent.
 
@@ -14,7 +14,7 @@ The presentation is designed and structured for a **25-minute total course prese
 | :--- | :--- | :--- | :---: |
 | **Kaan** | Slides 1–5 & 15–20 | Opening, live color/shape quiz moderation, memory science, design guidelines & conclusion | **~13–14 min** |
 | **Caner** | Slides 6–14 | Core brand case studies: Coca-Cola, McDonald's, Tiffany & Co., and IKEA | **~11–12 min** |
-| **Combined** | Slides 1–24 | 20 content slides + 2 academic references + 2 image credits + audience Q&A | **25:00 min** |
+| **Combined** | Slides 1–25 | 20 content slides + 1 closing slide + 2 references + 2 image credits + audience Q&A | **25:00 min** |
 
 ---
 
@@ -24,7 +24,7 @@ The presentation is designed and structured for a **25-minute total course prese
 beyond-the-logo/
 ├── presentation/          # Slide decks in all presentation formats
 │   ├── Beyond_the_Logo.pptx   # 16:9 widescreen PowerPoint deck with embedded notes
-│   ├── Beyond_the_Logo.pdf    # Full 24-slide high-res PDF export
+│   ├── Beyond_the_Logo.pdf    # Full 25-slide high-res PDF export
 │   └── Beyond_the_Logo.docx   # Document with slide renders, key bullets & notes
 │
 ├── scripts/               # Speaker reading files for phone & desktop
@@ -56,8 +56,8 @@ beyond-the-logo/
 
 ## 🖥️ Presentation Files
 
-- **[PowerPoint Presentation (PPTX)](./presentation/Beyond_the_Logo.pptx)** — Complete 24-slide widescreen presentation (16:9) with embedded presenter notes and timing metadata.
-- **[Presentation PDF](./presentation/Beyond_the_Logo.pdf)** — High-resolution slide export (24 slides: 20 content slides, 2 references, 2 image credits).
+- **[PowerPoint Presentation (PPTX)](./presentation/Beyond_the_Logo.pptx)** — Complete 25-slide widescreen presentation (16:9) with embedded presenter notes and timing metadata.
+- **[Presentation PDF](./presentation/Beyond_the_Logo.pdf)** — High-resolution slide export (25 slides: 20 content slides, 1 closing slide, 2 references, 2 image credits).
 - **[Presentation DOCX](./presentation/Beyond_the_Logo.docx)** — Complete document containing slide renders, key takeaways, and delivery notes.
 
 ---

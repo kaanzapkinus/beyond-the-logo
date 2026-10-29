@@ -378,7 +378,7 @@ Here are three practical tips for designers. First, build clear shapes that work
   - `[S1]` **Evidence concerning the importance of perceived brand differentiation** — *Australasian Marketing Journal / Ehrenberg-Bass Institute for Marketing Science* — <https://assets.marketingscience.info/different.pdf>
 
 ### Full Spoken Script
-To wrap up, logos still matter at the final moment. But in crowded places, shapes and colors catch our attention first. Bottles, fry cartons, and gift boxes guide us without words. Thank you very much for your time. Can and I are happy to take any questions.
+To wrap up, logos still matter at the final moment. But in crowded places, shapes and colors catch our attention first. Bottles, fry cartons, and gift boxes guide us without words. Thank you very much for your time. Caner and I are happy to take any questions.
 
 ---
 
@@ -391,7 +391,7 @@ To wrap up, logos still matter at the final moment. But in crowded places, shape
 - **Spoken Word Count:** 0 words
 - **Visual Focus:** 4-color horizontal accent strip and presenters card
   - *Title:* "Thanks for Listening to Us!"
-  - *Presenters:* "Kaan Yazıcıoğlu & Can Akcasu"
+  - *Presenters:* "Kaan Yazıcıoğlu & Caner Akcasu"
 - **Stage Directions:** Closing slide displayed during audience questions and discussion.
 
 ---
