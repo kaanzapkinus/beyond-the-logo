@@ -192,7 +192,7 @@ def add_header(slide, title_text: str):
                 text=title_text, font_size=34, bold=True)
 
 
-TOTAL_SLIDES = 24
+TOTAL_SLIDES = 25
 
 
 def add_footer(slide, sources: List[str], slide_num: int, total_slides: int = TOTAL_SLIDES):
@@ -311,7 +311,7 @@ def build_cover(prs, s: Dict[str, Any]):
     for i, col in enumerate(strip_colors):
         add_rect(slide, Inches(1.0 + i * 1.8), Inches(4.5), Inches(1.8), Inches(0.12), fill=col, line=None)
 
-    credit = s.get("credit", "Kaan & Caner")
+    credit = s.get("credit", "Kaan Yazıcıoğlu & Can Akcasu")
     add_textbox(slide, Inches(1.0), Inches(5.1), Inches(6.0), Inches(0.4),
                 text=credit, font_size=15, color=COLOR_DARK_MUTED)
     return slide
@@ -535,6 +535,24 @@ def build_conclusion_20(prs, s: Dict[str, Any]):
     for i, t in enumerate(takeaways):
         add_textbox(slide, Inches(1.0), Inches(y_starts[i]), Inches(0.4), Inches(1.1), text="•", font_size=28, bold=True, color=COLOR_LINK)
         add_textbox(slide, Inches(1.5), Inches(y_starts[i] + 0.04), Inches(10.833), Inches(1.1), text=t, font_size=24, bold=True)
+    return slide
+def build_thanks(prs, s: Dict[str, Any], slide_num: int = 21):
+    slide = prs.slides.add_slide(prs.slide_layouts[6])
+    add_footer(slide, [], slide_num)
+
+    tf = add_textbox(slide, Inches(1.0), Inches(2.0), Inches(11.333), Inches(1.6),
+                     text="Thanks for Listening to Us!", font_size=42, bold=True, space_after=10)
+    add_p(tf, "Any questions or observations?", font_size=24, color=COLOR_DARK_MUTED, space_after=18)
+
+    strip_colors = [COLOR_COKE_RED, COLOR_MCD_YELLOW, COLOR_TIFFANY, COLOR_IKEA_BLUE]
+    for i, col in enumerate(strip_colors):
+        add_rect(slide, Inches(1.0 + i * 1.8), Inches(4.1), Inches(1.8), Inches(0.12), fill=col, line=None)
+
+    credit = s.get("credit", "Kaan Yazıcıoğlu & Can Akcasu")
+    add_textbox(slide, Inches(1.0), Inches(4.6), Inches(10.0), Inches(0.35),
+                text="Presented by", font_size=14, bold=False, color=COLOR_MUTED)
+    add_textbox(slide, Inches(1.0), Inches(5.0), Inches(10.0), Inches(0.6),
+                text=credit, font_size=28, bold=True, color=COLOR_BLACK)
     return slide
 
 
@@ -810,26 +828,28 @@ def main():
         elif s_idx == 20:
             slide = build_conclusion_20(prs, s)
         elif s_idx == 21:
-            src_list_21 = [sources_map[sid] for sid in ["S1", "S2", "S3", "S4", "S5"] if sid in sources_map]
-            slide = build_references(prs, s, src_list_21, 21)
+            slide = build_thanks(prs, s, 21)
         elif s_idx == 22:
-            src_list_22 = [sources_map[sid] for sid in ["S6", "S7", "S8", "S9"] if sid in sources_map]
+            src_list_22 = [sources_map[sid] for sid in ["S1", "S2", "S3", "S4", "S5"] if sid in sources_map]
             slide = build_references(prs, s, src_list_22, 22)
+        elif s_idx == 23:
+            src_list_23 = [sources_map[sid] for sid in ["S6", "S7", "S8", "S9"] if sid in sources_map]
+            slide = build_references(prs, s, src_list_23, 23)
         else:
             slide = prs.slides.add_slide(prs.slide_layouts[6])
 
         set_speaker_notes(slide, s, sources_map, assets_map, cum_sec)
 
-    # Append TWO image-credit appendix slides AFTER current 22
+    # Append TWO image-credit appendix slides AFTER current 23
     raster_assets = [a for a in load_assets_list() if a.get("format") != "svg"]
     appendix_1_assets = raster_assets[:4]
     appendix_2_assets = raster_assets[4:7]
 
-    slide_23 = build_image_credits(prs, "Appendix: Image Credits and Attributions (Part 1)", appendix_1_assets, 23)
-    set_appendix_notes(slide_23, appendix_1_assets, 23)
+    slide_24 = build_image_credits(prs, "Appendix: Image Credits and Attributions (Part 1)", appendix_1_assets, 24)
+    set_appendix_notes(slide_24, appendix_1_assets, 24)
 
-    slide_24 = build_image_credits(prs, "Appendix: Image Credits and Attributions (Part 2)", appendix_2_assets, 24)
-    set_appendix_notes(slide_24, appendix_2_assets, 24)
+    slide_25 = build_image_credits(prs, "Appendix: Image Credits and Attributions (Part 2)", appendix_2_assets, 25)
+    set_appendix_notes(slide_25, appendix_2_assets, 25)
 
     output_path = "presentation/Beyond_the_Logo.pptx" if Path("presentation").exists() else "Beyond_the_Logo.pptx"
     prs.save(output_path)

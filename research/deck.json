@@ -1,7 +1,7 @@
 {
   "deck_title": "Beyond the Logo",
   "subtitle": "Can we recognize a brand without its name?",
-  "authors": "Kaan and Caner",
+  "authors": "Kaan Yazıcıoğlu & Can Akcasu",
   "language": "B2 English",
   "duration_seconds": 720,
   "slides": [
@@ -9,14 +9,14 @@
       "id": 1,
       "title": "Beyond the Logo",
       "layout": "cover",
-      "credit": "Kaan & Caner",
+      "credit": "Kaan Yazıcıoğlu & Can Akcasu",
       "speaker": 1,
       "seconds": 30,
       "body": [
         "Visual clues that trigger brand recognition without a logo",
         "How shapes, colors, and packaging help us identify brands"
       ],
-      "notes": "Hi, I’m Kaan, and this is Caner. Today we’ll look at how we recognize brands without their names. Sometimes a color, a shape, or a package is enough. In daily life, we rarely read every logo on a shelf. Instead, we spot familiar bottles and colors. We’ll explore four famous examples to see how this works.",
+      "notes": "Hi, I’m Kaan, and this is Can. Today we’ll look at how we recognize brands without their names. Sometimes a color, a shape, or a package is enough. In daily life, we rarely read every logo on a shelf. Instead, we spot familiar bottles and colors. We’ll explore four famous examples to see how this works.",
       "stage_directions": "Brief optional pause.",
       "sources": [
         "S1"
@@ -110,7 +110,7 @@
         "Marketing research shows brand recognition comes from consistent use",
         "Context and learned familiarity turn colors into reliable shortcuts"
       ],
-      "notes": "We often hear that red creates hunger and blue builds trust. But a color does not mean the same thing to everyone. With brands, we learn these links by seeing the same colors again and again. So using a color consistently matters. Caner will show you some examples.",
+      "notes": "We often hear that red creates hunger and blue builds trust. But a color does not mean the same thing to everyone. With brands, we learn these links by seeing the same colors again and again. So using a color consistently matters. Can will show you some examples.",
       "stage_directions": "Brief optional pause before handing over to Caner.",
       "sources": [
         "S1"
@@ -342,7 +342,7 @@
         "Blue woven handles feature bright yellow brand lettering",
         "Everyday practical use turned the bag into a familiar clue"
       ],
-      "notes": "Thanks, Caner. IKEA created another famous clue: the blue FRAKTA bag. In 1986, shoppers got tired carrying heavy goods. IKEA tested yellow bags in 1989, but checkout got confusing. So yellow bags stayed inside for borrowing. Blue bags were sold to take home. That durable bag became a familiar household clue.",
+      "notes": "Thanks, Can. IKEA created another famous clue: the blue FRAKTA bag. In 1986, shoppers got tired carrying heavy goods. IKEA tested yellow bags in 1989, but checkout got confusing. So yellow bags stayed inside for borrowing. Blue bags were sold to take home. That durable bag became a familiar household clue.",
       "stage_directions": "Brief optional pause.",
       "sources": [
         "S7"
@@ -462,7 +462,7 @@
         "Packaging and colors help shoppers spot products quickly",
         "Recognition grows through patient consistency and daily familiarity"
       ],
-      "notes": "To wrap up, logos still matter at the final moment. But in crowded places, shapes and colors catch our attention first. Bottles, fry cartons, and gift boxes guide us without words. Thank you very much for your time. Caner and I are happy to take any questions.",
+      "notes": "To wrap up, logos still matter at the final moment. But in crowded places, shapes and colors catch our attention first. Bottles, fry cartons, and gift boxes guide us without words. Thank you very much for your time. Can and I are happy to take any questions.",
       "stage_directions": "Brief optional pause to conclude.",
       "sources": [
         "S1"
@@ -476,6 +476,21 @@
     },
     {
       "id": 21,
+      "title": "Thank You for Listening",
+      "layout": "thanks",
+      "credit": "Kaan Yazıcıoğlu & Can Akcasu",
+      "speaker": null,
+      "seconds": 0,
+      "body": [
+        "Beyond the Logo: Can We Recognize a Brand Without Its Name?",
+        "Questions & Discussion"
+      ],
+      "notes": "",
+      "stage_directions": "Closing slide displayed during audience questions and discussion.",
+      "sources": []
+    },
+    {
+      "id": 22,
       "title": "References: Research Studies and Corporate Archives",
       "layout": "references",
       "speaker": null,
@@ -504,7 +519,7 @@
       "seconds": 0
     },
     {
-      "id": 22,
+      "id": 23,
       "title": "References: Museum Archives, News and Agency Records",
       "layout": "references",
       "speaker": null,
